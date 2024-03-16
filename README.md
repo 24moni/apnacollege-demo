@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my git first  repositary.
 <br>
-author -moni
+author - moni(apna college)
